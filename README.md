@@ -1,2 +1,11 @@
-# weather-dashboard
-The Weather App is a responsive web application built using React.js and styled with Tailwind CSS. It allows users to search for the current weather conditions of any city around the world. The app fetches real-time weather data from the OpenWeatherMap API and displays it in a clean, user-friendly interface.
+# Weather Dashboard
+
+A responsive weather app built using React.js that displays current weather conditions for any city.
+
+## Features
+- Search for weather by city name.
+- Displays temperature, humidity, wind speed, and weather conditions.
+- Modern and responsive design with Tailwind CSS.
+
+## How to Run
+1. Clone this repository:
